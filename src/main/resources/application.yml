@@ -1,0 +1,4 @@
+debug: false
+server:
+  servlet.context-path: /gw
+  port: 8080
